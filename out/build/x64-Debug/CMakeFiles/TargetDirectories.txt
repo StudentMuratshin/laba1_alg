@@ -1,0 +1,5 @@
+C:/Users/murat/Desktop/2 курс/4 сем/алгосы/laba1/out/build/x64-Debug/CMakeFiles/main.dir
+C:/Users/murat/Desktop/2 курс/4 сем/алгосы/laba1/out/build/x64-Debug/CMakeFiles/test1.dir
+C:/Users/murat/Desktop/2 курс/4 сем/алгосы/laba1/out/build/x64-Debug/CMakeFiles/test.dir
+C:/Users/murat/Desktop/2 курс/4 сем/алгосы/laba1/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/murat/Desktop/2 курс/4 сем/алгосы/laba1/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

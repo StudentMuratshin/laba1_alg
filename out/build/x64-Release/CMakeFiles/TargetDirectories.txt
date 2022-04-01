@@ -1,0 +1,5 @@
+C:/Users/PETA4/Desktop/2 курс/4 сем/алгосы/laba1/out/build/x64-Release/CMakeFiles/edit_cache.dir
+C:/Users/PETA4/Desktop/2 курс/4 сем/алгосы/laba1/out/build/x64-Release/CMakeFiles/main.dir
+C:/Users/PETA4/Desktop/2 курс/4 сем/алгосы/laba1/out/build/x64-Release/CMakeFiles/test1.dir
+C:/Users/PETA4/Desktop/2 курс/4 сем/алгосы/laba1/out/build/x64-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/PETA4/Desktop/2 курс/4 сем/алгосы/laba1/out/build/x64-Release/CMakeFiles/test.dir
